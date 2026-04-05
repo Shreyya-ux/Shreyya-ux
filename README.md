@@ -6,12 +6,12 @@ I am an undergraduate student and a design enthusiast. I love creating intuitive
 
 - 🔭 I’m currently contributing to **C4GT 2026**.
 - 🎨 Passionate about **Accessibility** and **Visual Storytelling**.
-- 💻 Tech Stack: **Figma, Canva, HTML, CSS**.
+- 💻 Tech Stack: **Figma, Canva, mockups etc.
 
 ---
 
 ### 🚀 C4GT 2026 Goals
-- [ ] Complete UI Audit for Bahmni Patient Portal.
+- [ ] Complete UI Audit for many projects or programs..
 - [ ] Contribute to 5+ Design-led PRs.
 - [ ] Connect with mentors for DMP 2026.
 
@@ -24,4 +24,4 @@ I am an undergraduate student and a design enthusiast. I love creating intuitive
 ---
 
 ### 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/shreya-pandey-ux) | [Figma](https://www.figma.com/@shreyyaux)
+[LinkedIn](https://www.linkedin.com/in/shreyapandey05) 
