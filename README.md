@@ -16,13 +16,25 @@ I am an undergraduate student and a design enthusiast. I love creating intuitive
 - [ ] Connect with mentors for DMP 2026.
 -
 
---- 
-### 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreyya-ux&show_icons=true&theme=dark)
+---
+My Design Tool-kit
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyya-ux&layout=compact&theme=dark)
- 
+---
+### 🎨 Design Skills
+![User Research](https://img.shields.io/badge/Skill-User%20Research-blueviolet?style=for-the-badge)
+![Wireframing](https://img.shields.io/badge/Skill-Wireframing-pink?style=for-the-badge)
+![Prototyping](https://img.shields.io/badge/Skill-Prototyping-orange?style=for-the-badge)
+
+---
+
+### 📊 Contribution Activity
+![C4GT 2026](https://img.shields.io/badge/C4GT%202026-Active%20Contributor-brightgreen?style=for-the-badge)
+![UI/UX](https://img.shields
+
 
 ---
 
