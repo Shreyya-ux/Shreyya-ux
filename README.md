@@ -33,7 +33,7 @@ My Design Tool-kit
 
 ### 📊 Contribution Activity
 ![C4GT 2026](https://img.shields.io/badge/C4GT%202026-Active%20Contributor-brightgreen?style=for-the-badge)
-![UI/UX](https://img.shields
+[UI/UX](https://img.shields.io/badge/Role-UI%2FUX%20Designer-blue?style=for-the-badge)
 
 
 ---
