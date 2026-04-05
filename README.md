@@ -18,7 +18,7 @@ I am an undergraduate student and a design enthusiast. I love creating intuitive
 ---
 
 ### 📊 My GitHub Stats
-![Shreya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreyya-ux&show_icons=true&theme=dark)
+![Shreya's GitHub](https://github.com/Shreyya-ux)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyya-ux&layout=compact&theme=dark)
 
 ---
