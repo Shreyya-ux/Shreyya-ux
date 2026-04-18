@@ -1,20 +1,13 @@
 # Hi there, I'm Shreya Pandey! 👋
 
-### 🎨 UI/UX Designer | Open Source Contributor @C4GT 2026
+### 🎨 UI/UX Designer | Open Source Contributor 
 
 I am an undergraduate student and a design enthusiast. I love creating intuitive user experiences for social impact projects.
 
-- 🔭 I’m currently contributing to **C4GT 2026**.
 - 🎨 Passionate about **Accessibility** and **Visual Storytelling**.
 - 💻 Tech Stack: **Figma, Canva, mockups etc.
-
+-  Design-to-Code: Converting complex Figma prototypes into clean, responsive, and maintainable React components.
 ---
-
-### 🚀 C4GT 2026 Goals
-- [ ] Complete UI Audit for many projects or programs..
-- [ ] Contribute to 5+ Design-led PRs.
-- [ ] Connect with mentors for DMP 2026.
--
 
 
 ---
