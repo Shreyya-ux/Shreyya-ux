@@ -1,6 +1,6 @@
 # Hi there, I'm Shreya Pandey! 👋
 
-### 🎨 UI/UX Designer | Open Source Contributor 
+### 🎨 UI/UX Designer | Open Source Contributor
 
 I am an undergraduate student and a design enthusiast. I love creating intuitive user experiences for social impact projects.
 
